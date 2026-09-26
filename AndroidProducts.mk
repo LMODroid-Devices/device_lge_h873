@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h873.mk
+    $(LOCAL_DIR)/lmodroid_h873.mk
